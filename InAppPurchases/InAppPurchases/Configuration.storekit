@@ -1,0 +1,59 @@
+{
+  "products" : [
+    {
+      "displayPrice" : "0.99",
+      "familyShareable" : false,
+      "internalID" : "F245941E",
+      "localizations" : [
+        {
+          "description" : "Removes All Ads Forever",
+          "displayName" : "Remove Ads",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "com.myapp.removeAds",
+      "referenceName" : "Remove Ads",
+      "type" : "NonConsumable"
+    },
+    {
+      "displayPrice" : "0.99",
+      "familyShareable" : false,
+      "internalID" : "5AE8E59A",
+      "localizations" : [
+        {
+          "description" : "I don't know its a random payment",
+          "displayName" : "Random Payment",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "com.myapp.random",
+      "referenceName" : "Random Payment",
+      "type" : "NonConsumable"
+    },
+    {
+      "displayPrice" : "0.99",
+      "familyShareable" : false,
+      "internalID" : "B9E539C2",
+      "localizations" : [
+        {
+          "description" : "Don't Pay for nothing!",
+          "displayName" : "Don't Pay",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "com.myapp.pay",
+      "referenceName" : "Dont Pay",
+      "type" : "NonConsumable"
+    }
+  ],
+  "settings" : {
+
+  },
+  "subscriptionGroups" : [
+
+  ],
+  "version" : {
+    "major" : 1,
+    "minor" : 0
+  }
+}
